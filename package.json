@@ -19,7 +19,8 @@
     "lodash.clonedeep": "^4.3.2",
     "sdp-jingle-json": "^3.0.0",
     "webrtc-adapter": "^3.1.0",
-    "wildemitter": "1.x"
+    "wildemitter": "1.x",
+    "react-native-util": "git+ssh://git@github.com/satchelhealth/react-native-util"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.9.0",

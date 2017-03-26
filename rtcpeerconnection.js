@@ -1,4 +1,4 @@
-var util = require('util');
+var util = require('react-native-util');
 var SJJ = require('sdp-jingle-json');
 var WildEmitter = require('wildemitter');
 var adapter = require('webrtc-adapter');
